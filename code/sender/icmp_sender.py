@@ -7,7 +7,7 @@ class icmp_sender:
 
 
     def sentPacket(self):
-        pack=scapy.all.IP(dst="172.21.0.2",ttl=1)/scapy.all.ICMP()
+        pack=scapy.all.IP(dst="receiver",ttl=1)/scapy.all.ICMP()
         scapy.all.send(pack)
 
 icmp_sender()
