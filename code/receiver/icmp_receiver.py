@@ -15,5 +15,5 @@ class icmp_receiver:
             else:
                 filter_list.pop()
         filter_list[0].show()
-icmp_receiver()
+# icmp_receiver()
 # Implement your ICMP receiver here

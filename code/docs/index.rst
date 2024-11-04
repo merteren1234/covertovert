@@ -6,7 +6,10 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Group Members: 
+- Mert Uludoğan (ID: 2380996)
+
+Group ID: 78
 
 
 .. toctree::
