@@ -10,5 +10,5 @@ class icmp_sender:
         pack=scapy.all.IP(dst="receiver",ttl=1)/scapy.all.ICMP()
         scapy.all.send(pack)
 
-# icmp_sender()
-# Implement your ICMP sender here
+
+# icmp_sender() // uncomment this line to run the code

@@ -6,8 +6,10 @@
 Basic ICMP Documentation
 ========================
 
-Group Members: 
-- Mert Uludoğan (ID: 2380996)
+Group Members:
+
+* Mert Uludoğan (ID: 2380996)
+* Mert Eren (ID: 2442978)
 
 Group ID: 78
 

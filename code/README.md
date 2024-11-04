@@ -27,9 +27,11 @@ The COVERTOVERT project is designed to demonstrate communication between two mac
 ## Group Information
 - **Name**: Mert Uludoğan
 - **Student ID**: 2380996
-- **Group ID**: <Your Group ID>
+- **Name**: Mert Eren
+- **Student ID**: 2442978
+- **Group ID**: 78
 
 ## GitHub Repository
 Link to the forked repository from 'covertovert':
-[GitHub Repository Link](<insert your GitHub link here>)
+[GitHub Repository Link](https://github.com/merteren1234/covertovert)
 
